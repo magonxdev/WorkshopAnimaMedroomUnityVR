@@ -3,7 +3,7 @@ Este repositório possui o código do jogo criado em 3h para o workshop de Unity
 
 O jogo criado foi um jogo de point-n-click usando o VR onde você precisa encontrar os itens escondidos para conseguir sair da sala.
 
-![image-20210616221808970](C:\Users\lucas\AppData\Roaming\Typora\typora-user-images\image-20210616221808970.png)
+![img](https://i.ibb.co/FY4WP0H/image.png)
 
 
 
